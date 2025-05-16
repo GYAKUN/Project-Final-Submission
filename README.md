@@ -37,8 +37,7 @@ API Endpoints
 - GET https://flagsapi.com/${player.country}/flat/64.png - Get flags on search
 - GEThttps://flagsapi.com/${player.country}/flat/64.png - Get flags on profile
 ### Statistics
-- GET /api/stats/heroes - Get hero pick rates
-- GET /api/stats/teams/:teamId - Get team statistics
+- GET https://overfast-api.tekrop.fr/heroes - Get hero pick rates
 ### Known Issues and Future Development
 1. Hero portrait API occasionally experiences timeout issues
 2. Search function may lag with large datasets
