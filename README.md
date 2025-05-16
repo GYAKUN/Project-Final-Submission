@@ -26,7 +26,7 @@ For detailed technical documentation, please refer to the [Developer Manual](#de
 
 # Developer Manual
 
-## Installation
+## Deployment to Vercel
 https://project-final-submission.vercel.app/ 
 
 
