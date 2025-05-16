@@ -30,7 +30,7 @@ For detailed technical documentation, please refer to the [Developer Manual](#de
 https://project-final-submission.vercel.app/ 
 
 
-API Endpoints
+## API Endpoints
 ### Flags
 - GET https://flagsapi.com/${player.country}/flat/64.png - Get flags on search
 - GEThttps://flagsapi.com/${player.country}/flat/64.png - Get flags on profile
