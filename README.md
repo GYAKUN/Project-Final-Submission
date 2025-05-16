@@ -1,7 +1,7 @@
 # Overwatch Champions Series (OWCS)
 
 ## Project Overview
-OWCS is a dynamic web application that provides comprehensive information about professional Overwatch esports teams and players across different regions. The platform offers detailed statistics, team rosters, and player profiles.
+OWCS is a dynamic web application that provides information about professional Overwatch esports teams and players across different regions. The platform offers statistics, team rosters, and player profiles.
 
 ## Features
 - Regional team filtering (NA, EU, China, Asia)
